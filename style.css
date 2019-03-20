@@ -1,0 +1,15 @@
+ <style>
+  /*this is comment syntax in CSS*/
+  html{
+  text-align: center;
+  }
+  img {
+  max-width: 100%;
+  height: auto;
+  }
+  .blue {color: blue;};
+  p {
+  color: blue;
+  text-align: center;}
+  /*body {*text-align:"center";}*/
+  </style> 
